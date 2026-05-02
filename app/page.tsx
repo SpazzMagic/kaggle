@@ -1,4 +1,4 @@
-import { Heading } from './components/atoms/Heading';import { SalesDashboard } from './components/organisms/SalesDashboard';
+import { Heading } from './kaggle/atoms/Heading';import { SalesDashboard } from './kaggle/organisms/SalesDashboard';
 export default function Home() {
   return (
     <main className="min-h-screen p-24 bg-gray-50">
